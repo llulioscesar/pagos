@@ -12,6 +12,8 @@ app.use(bodyParser.urlencoded({
 
 app.use(bodyParser.json());
 
+app.set('view engine', 'jade');
+
 mercadopago.configure({
   client_id: config.client_id,
   client_secret: config.client_secret
