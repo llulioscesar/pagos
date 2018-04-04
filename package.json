@@ -10,5 +10,10 @@
     "https://github.com/llulioscesar/pagos.git"
   ],
   "author": "Jcesar <llulioscesar@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mercadopago": "^1.0.12"
+  }
 }
