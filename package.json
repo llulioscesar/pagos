@@ -1,0 +1,14 @@
+{
+  "name": "pagos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "https://github.com/llulioscesar/pagos.git"
+  ],
+  "author": "Jcesar <llulioscesar@gmail.com>",
+  "license": "ISC"
+}
