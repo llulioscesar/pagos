@@ -2,7 +2,6 @@
   "name": "pagos",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "author": "Jcesar <llulioscesar@gmail.com>",
   "license": "ISC",
   "scripts": {
